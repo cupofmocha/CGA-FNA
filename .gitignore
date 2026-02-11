@@ -1,0 +1,4 @@
+# pycache directory
+__pycache__/
+data_infor/
+exp/
